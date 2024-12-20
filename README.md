@@ -5,4 +5,4 @@ Instructions:
 
     Download data and scripts
     Open main_script_RMAS.R with the statistical software R
-    Insert the path to the folder with the downloaded data at the beginning of the scrip
+    Insert the paths to the folders with the downloaded data at the beginning of the scrip
